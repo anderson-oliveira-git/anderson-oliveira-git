@@ -15,4 +15,5 @@
   <img align="center" alt="dev-Django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
   <img align="center" alt="dev-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="dev-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="dev-Godot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 </div>
