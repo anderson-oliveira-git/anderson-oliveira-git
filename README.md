@@ -15,11 +15,3 @@
   <img align="center" alt="dev-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" alt="dev-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
-  
-  ##
- 
-<div> 
- 
-  ![Snake animation](https://github.com/HrZero/HrZero/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
