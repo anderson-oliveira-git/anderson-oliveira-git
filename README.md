@@ -1,4 +1,4 @@
-## Apenas um dev viciado em cafeina e programação!
+## Seja um programador responsivo e se adapte aos diferentes tamanhos de problemas.
 <div align="center">
   <a href="https://github.com/HrZero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
