@@ -8,7 +8,7 @@
   -->
   
 ![HrZero_Status](https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=dark&hide_border=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HrZero&layout=compact&theme=dark&hide_border=true)](https://github.com/HrZero)
+[![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=HrZero&layout=compact&theme=dark&hide_border=true)](https://github.com/HrZero)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
