@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/HrZero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=60d794&text_color=f4f4f4"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrZero&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=60d794&text_color=f4f4f4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=9b69ac&text_color=f4f4f4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrZero&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=9b69ac&text_color=f4f4f4"/>
 </div>
 
 <div><br>
