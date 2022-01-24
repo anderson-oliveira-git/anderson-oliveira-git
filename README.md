@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/HrZero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrZero&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=highcontrast&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrZero&layout=compact&theme=highcontrast&hide_border=true"/>
 </div>
 
 <div><br>
