@@ -1,5 +1,5 @@
-![image6230](https://user-images.githubusercontent.com/6682086/150740408-7cc23591-09a4-4a59-96b5-811d2a7198bd.png)
-![rect2551](https://user-images.githubusercontent.com/6682086/150742148-5c8e7b7f-87af-48d5-b2fe-030567275561.png)
+![image832](https://user-images.githubusercontent.com/6682086/150743675-8f5efbc9-5679-4796-baa8-c90da509a928.png)
+
 
 
 
@@ -16,11 +16,9 @@
 
 <div align="center">
   <a href="https://github.com/HrZero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=9b69ac&text_color=f4f4f4"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrZero&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=9b69ac&text_color=f4f4f4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=f4f4f4&text_color=f4f4f4&icon_color=00a6be"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrZero&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=f4f4f4&text_color=f4f4f4"/>
 </div>
-  
-![rect2551](https://user-images.githubusercontent.com/6682086/150742251-9790e029-3d5a-4acd-a204-78cf8b49de73.png)
 
 <div><br>
   <img align="center" alt="dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
