@@ -1,4 +1,5 @@
-![image832](https://user-images.githubusercontent.com/6682086/150743675-8f5efbc9-5679-4796-baa8-c90da509a928.png)
+![Sem título](https://user-images.githubusercontent.com/6682086/150746205-11bc78f3-ad6c-45fa-9742-262596fe98ab.png)
+
 
 
 
@@ -16,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/HrZero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=f4f4f4&text_color=f4f4f4&icon_color=00a6be"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrZero&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=f4f4f4&text_color=f4f4f4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=9b69ac&text_color=f4f4f4&icon_color=9b69ac"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrZero&layout=compact&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=9b69ac&text_color=f4f4f4"/>
 </div>
 
 <div><br>
