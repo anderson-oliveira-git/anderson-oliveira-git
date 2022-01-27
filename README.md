@@ -1,9 +1,9 @@
-<!--
+
 ![Sem título](https://user-images.githubusercontent.com/6682086/150746205-11bc78f3-ad6c-45fa-9742-262596fe98ab.png)
--->
 
+<!--
 ![rect858](https://user-images.githubusercontent.com/6682086/151296297-e08564aa-98de-48ee-be29-7ea4aa249bee.png)
-
+-->
 
 
 <!--
@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/anderson-oliveira-git">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-oliveira-git&show_icons=true&theme=onedark&hide_border=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&layout=compact&theme=onedark&hide_border=true&count_private=true&langs_count=10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-oliveira-git&show_icons=true&theme=radical&hide_border=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10">
 </div>
 
 <div><br>
