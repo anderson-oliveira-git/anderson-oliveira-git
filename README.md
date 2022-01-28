@@ -1,4 +1,4 @@
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white$target=blank)](https://www.instagram.com/_.anderson_oliveira._/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white&target=blank)](https://www.instagram.com/_.anderson_oliveira._/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](anderson.hrzero@gmail.com)  
 
 ![Sem título](https://user-images.githubusercontent.com/6682086/150746205-11bc78f3-ad6c-45fa-9742-262596fe98ab.png)
