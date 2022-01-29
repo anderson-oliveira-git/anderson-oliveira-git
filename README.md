@@ -52,6 +52,5 @@
   <img align="center" alt="dev-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="dev-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="dev-Godot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  <img align="center" alt="dev-unity" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 
 </div>
