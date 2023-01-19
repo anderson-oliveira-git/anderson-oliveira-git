@@ -24,6 +24,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10">
 </div>
 -->
+
+<p align="center">
+  <a href="https://github.com/anderson-oliveira-git">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&langs_count=6&layout=compact&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anderson-oliveira-git">
+    <img src="https://github-readme-stats.vercel.app/api?username=anderson-oliveira-git&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight" />
+  </a>
+</p>
+
 <div><br>
   
   <img align="center" alt="dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
