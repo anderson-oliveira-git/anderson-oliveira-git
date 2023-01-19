@@ -30,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&langs_count=6&layout=compact&theme=tokyonight" />
   </a>
   <a href="https://github.com/anderson-oliveira-git">
-    <img src="https://github-readme-stats.vercel.app/api?username=anderson-oliveira git&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anderson-oliveira-git&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight" />
   </a>
 </p>
 
