@@ -18,10 +18,13 @@
 <!-- ![HrZero_Status](https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=dark&hide_border=true)
 [![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&layout=compact&theme=dark&hide_border=true)](https://github.com/anderson-oliveira-git) -->
 
-<div align="center" style="display: flex; flex-wrap: nowrap;">
+<div>
   <a href="https://github.com/anderson-oliveira-git">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&langs_count=6&layout=compact&theme=tokyonight" />
   </a>
+</div>
+
+<div>
   <a href="https://github.com/anderson-oliveira-git">
     <img src="https://github-readme-stats.vercel.app/api?username=anderson-oliveira-git&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight" />
   </a>
