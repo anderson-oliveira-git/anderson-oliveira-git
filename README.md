@@ -5,28 +5,27 @@
 
 ![rect858](https://user-images.githubusercontent.com/6682086/151296297-e08564aa-98de-48ee-be29-7ea4aa249bee.png)
 
-
-
 <!--
 <div al>
   <a href="https://github.com/anderson-oliveira-git">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HrZero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https:/github-readme-stats-sigma-five.vercel.app/top-langs/?username=anderson-oliveira-git&layout=compact&langs_count=7&theme=dark"/>
 </div>
   -->
   
 <!-- ![HrZero_Status](https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=dark&hide_border=true)
 [![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&layout=compact&theme=dark&hide_border=true)](https://github.com/anderson-oliveira-git) -->
 
+<!--
 <div align="center">
   <a href="https://github.com/anderson-oliveira-git">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&hide_border=true&langs_count=6&layout=compact&theme=tokyonight" />
+    <img src="https:///github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anderson-oliveira-git&hide_border=true&langs_count=6&layout=compact&theme=tokyonight" />
   </a>
     <a href="https://github.com/anderson-oliveira-git">
-    <img src="https://github-readme-stats.vercel.app/api?username=anderson-oliveira-git&hide_border=true&hide_title=true&layout=compact&show_icons=true&theme=tokyonight"/>
+    <img src="https:///github-readme-stats-sigma-five.vercel.app/api?username=anderson-oliveira-git&hide_border=true&hide_title=true&layout=compact&show_icons=true&theme=tokyonight"/>
   </a>
 </div>
-
+-->
 
 <div><br>
   
