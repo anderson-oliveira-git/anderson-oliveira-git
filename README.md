@@ -12,9 +12,12 @@
   <img height="180em" src="https:/github-readme-stats-sigma-five.vercel.app/top-langs/?username=anderson-oliveira-git&layout=compact&langs_count=7&theme=dark"/>
 </div>
   -->
-  
+<!--
 ![HrZero_Status](https://github-readme-stats.vercel.app/api?username=HrZero&show_icons=true&theme=dark&hide_border=true)
-[![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&layout=compact&theme=dark&hide_border=true)](https://github.com/anderson-oliveira-git)
+[![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&layout=compact&theme=dark&hide_border=true)](https://github.com/anderson-oliveira-git) -->
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=anderson-oliveira-git&show_icons=true&theme=dark)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-oliveira-git&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <div align="center">
